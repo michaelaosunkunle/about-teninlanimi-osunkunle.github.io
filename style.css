@@ -1,0 +1,109 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: #D2E0FB;
+  
+}
+h1{
+  color:#EF9595;
+  text-align:center;
+  
+  
+}
+h2{
+  color: #EF9595;
+  text-align: center;
+}
+div{
+  padding: 10px;
+  margin: 10px;
+  
+}
+#about{
+ background-color: #FFBDF7;
+  border-radius: 10px;
+  border: 2px dotted #F21170;
+ text-align: center;
+  display: inline-block;
+}
+#city{
+  background-color:#FFBDF7 ;
+  border-radius: 10px;
+  border: 2px dotted white;
+  text-align: center;
+  display: inline-block;
+}
+#gallery{
+  background-color:#FFBDF7 ;
+  border-radius: 10px;
+  display: inline-block;
+  border: 2px dotted #F21170;
+  margin: 30px;
+  padding: 30px;
+}
+#sport{
+  background-color:#FFBDF7 ;
+  border-radius: 10px;
+  border: 2px dotted white;
+  text-align: center;
+  display: inline-block;
+   
+}
+#book{
+  background-color: #FFBDF7;
+  border-radius: 10px;
+  border: 2px dotted #F21170;
+  text-align: center;
+  display: inline-block;
+}
+.col{
+  width:180px;
+  float: left;
+}
+.col img{
+  width: 100%;
+  height: 200px;
+}
+img{
+  border: 3px dotted white;
+}
+#about img{
+  height: 250px;
+  width: 250px;
+}
+#sport img{
+  height: 250px;
+  width: 300px;
+}
+#book img{
+  height: 250px;
+  width: 250px;
+}
+nav{
+  text-align: center;
+  display: inline;
+  width: 100%;
+  
+}
+nav ul{
+  width: 100%;
+}
+nav ul li{
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+nav a{
+  text-decoration: none;
+  color: black;
+}
+nav ul li a:hover{
+  color:#FFBDF7 ;
+}
+#home h1{
+  font-weight: bold;
+  font-size: 40px;
+}
